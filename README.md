@@ -67,14 +67,17 @@ Below is an example of how to perform neural style transfer with the images prov
 
 ### Content Image
 Here is the content image we will be using:
+
 ![Content Image](neural_style_transfer_images1/octopus.jpg)
 
 ### Style Image
 Here is the style image that we will apply to the content:
+
 ![Style Image](neural_style_transfer_images1/hockney.jpg)
 
 ### Stylized Output
 After running the style transfer process, we get the following result:
+
 ![Stylized Image](stylized_image.png)
 
 
